@@ -11,17 +11,17 @@
 
 # Ratiba
 
-|       |     08:00     |     09:00     |    10:00     |    11:00     |    12:00     |    13:00     |    14:00     |    15:00     | 16:00 | 17:00 |
-| :---: | :-----------: | :-----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :---: | :---: |
-|  Mon  | CS 2214 CCL1  | CS 2214 CCL1  |              |              |              |              |              |              |       |       |
-|  Tue  | CS 2215 CLR-5 | CS 2215 CLR-5 |              | CS 2216 CLT2 |              | CS 2219 CCL1 | CS 2219 CCL1 | CS 2219 CCL1 |       |       |
-|  Wed  | CS 2214 CCL1  | CS 2212 CCL3  | CS 2212 CCL3 | CS 2212 CCL3 |              |              |              |              |       |       |
-|  Thu  |               |               | CS 2110 CCL2 | CS 2110 CCL2 | CS 2110 CCL2 |              |              |              |       |       |
-|  Fri  | CS 2215 CCL2  | CS 2215 CCL2  | CS 2215 CCL2 |              |              |              |              |              |       |       |
+|       |     08:00     |     09:00     |      10:00      |      11:00      |    12:00     |     13:00     |     14:00     |     15:00     | 16:00 | 17:00 |
+| :---: | :-----------: | :-----------: | :-------------: | :-------------: | :----------: | :-----------: | :-----------: | :-----------: | :---: | :---: |
+|  Mon  | CS 2214 CCL-1 | CS 2214 CCL-1 |  CS 2214 CCL-1  |                 |              |               | CS 2215 CCL-1 | CS 2215 CCL-1 |       |       |
+|  Tue  | CS 2216 CLR-5 | CS 2216 CLR-5 | DS 2210 PRJ-LAB | DS 2210 PRJ-LAB |              | CS 2219 CCL-1 | CS 2219 CCL-1 | CS 2219 CCL-1 |       |       |
+|  Wed  |               | CS 2212 CCL-3 |  CS 2212 CCL-3  |  CS 2212 CCL-3  |              |               | CS 2216 CCL-1 |               |       |       |
+|  Thu  |               |               |  CS 2110 CCL2   |  CS 2110 CCL2   | CS 2110 CCL2 |               |               |               |       |       |
+|  Fri  | CS 2215 CCL2  | CS 2215 CCL2  |  CS 2215 CCL2   |                 |              |               |               |               |       |       |
 
 ## Changes
-- [x] Moved CS 2214 from CCL1 @Mon 13 - 14 to CCL1 @Mon 08 - 10
-- [x] Moved CS 2214 from CCL1 @Wed 09 - 10 to CCL1 @Wed 08 - 09
+- [x] Moved CS 2214 from CCL-1 @Mon 13 - 14 to CCL-1 @Mon 08 - 10
+- [x] Moved CS 2214 from CCL-1 @Wed 09 - 10 to CCL-1 @Wed 08 - 09
 - [x] Added CS 2215 CLR-5 @Tue 08 - 10
 - [ ] Add web mchana j3
 - [ ] CLR-5 is free j4 asubuhi
